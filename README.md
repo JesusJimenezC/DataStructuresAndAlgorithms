@@ -50,6 +50,4 @@ The repository contains implementations and practice problems for the following 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [jesus.jimenezc.mx@gmail.com](mailto:jesus.jimenezc.mx@gmail.com).
-
-Happy Coding!
+Jesus Jimenez Cordero - [jesus.jimenez.mx@proton.me](mailto:jesus.jimenez.mx@proton.me)
